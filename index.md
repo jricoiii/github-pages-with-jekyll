@@ -9,4 +9,7 @@ Download at OpenIntro [ https://www.openintro.org/stat/textbook.php?stat_book=os
 
 2.  Register, Signup and complete 2 DataCamp course (by end of second week of class)
 
+syllabus 
+[ a relative link] (syllabus/index.md)
+
    
