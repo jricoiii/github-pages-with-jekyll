@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Transfer-level statistics course at Ohlone College.  Technology choice for student work is R.
 
 # social links
-twitter_username: @jricoiii
-github_username:  jricoiii
+twitter_username: "@jricoiii"
+github_username:  "jricoiii"
 
 show_excerpts: true # set to false to remove excerpts on the homepage
